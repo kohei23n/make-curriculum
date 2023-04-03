@@ -9,4 +9,5 @@
   - h2タグを使って「趣味」というサブタイトルを作ろう
   - ul、liタグを使って趣味をいくつか書こう
 
-- 完成：<img width="1432" alt="image" src="https://user-images.githubusercontent.com/86785032/229454716-b0e4590e-76fc-49e3-b5f3-05722f6a69fc.png">
+- 完成：<img width="1436" alt="image" src="https://user-images.githubusercontent.com/86785032/229455549-ab14cc84-2541-4af1-aaaf-9c213bd7d856.png">
+
