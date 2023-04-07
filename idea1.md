@@ -15,5 +15,5 @@
 - 画像入れてもらう
 - 簡単なCSSを追加してもらう
 
-- 完成：<img width="1436" alt="image" src="https://user-images.githubusercontent.com/86785032/229455549-ab14cc84-2541-4af1-aaaf-9c213bd7d856.png">
+- 完成：<img width="1428" alt="image" src="https://user-images.githubusercontent.com/86785032/230528893-98745e54-7174-453d-9156-9a4e36e106fb.png">
 
