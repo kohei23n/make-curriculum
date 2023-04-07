@@ -15,6 +15,7 @@
 - 画像入れよう
 - リンクを入れよう
 - 簡単なCSSを追加してもらう
+- new!：flexboxを使おう
 
 - 完成：<img width="1436" alt="image" src="https://user-images.githubusercontent.com/86785032/229455549-ab14cc84-2541-4af1-aaaf-9c213bd7d856.png">
 
