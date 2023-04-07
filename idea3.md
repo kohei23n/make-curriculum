@@ -12,4 +12,4 @@
 - リンクを入れよう
 - 簡単なCSSを追加しよう
 
-- 完成：<img width="1431" alt="image" src="https://user-images.githubusercontent.com/86785032/230538705-9122ab11-c2fa-4c76-be9e-a1aaff81dfb6.png">
+- 完成：<img width="1433" alt="image" src="https://user-images.githubusercontent.com/86785032/230543917-2a68cece-7d1d-462e-9362-ccc10b445b9d.png">
