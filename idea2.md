@@ -17,5 +17,4 @@
 - 簡単なCSSを追加してもらう
 - new!：flexboxを使おう
 
-- 完成：<img width="1436" alt="image" src="https://user-images.githubusercontent.com/86785032/229455549-ab14cc84-2541-4af1-aaaf-9c213bd7d856.png">
-
+- 完成：<img width="1431" alt="image" src="https://user-images.githubusercontent.com/86785032/230538705-9122ab11-c2fa-4c76-be9e-a1aaff81dfb6.png">
